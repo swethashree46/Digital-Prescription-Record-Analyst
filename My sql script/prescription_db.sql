@@ -1,0 +1,1 @@
+SELECT * FROM prescription_db.drugs;
